@@ -38,7 +38,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install -r back/requirements.txt
+        pip install -r back/AIgyr/requirements.txt
 
     - name: Run tests
       run: |
